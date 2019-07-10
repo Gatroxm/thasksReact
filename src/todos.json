@@ -1,0 +1,40 @@
+{
+    "todos":[
+        {
+            "titulo" : "Tarea 1",
+            "responsable" : "carlos",
+            "descripcion" : "Pasear el perro",
+            "prioridad" : "low"
+        },
+        {
+            "titulo" : "Tarea 2",
+            "responsable" : "andres",
+            "descripcion" : "Pasear el gato",
+            "prioridad" : "medium"
+        },
+        {
+            "titulo" : "Tarea 3",
+            "responsable" : "camilo",
+            "descripcion" : "Pasear el perico",
+            "prioridad" : "high"
+        },
+        {
+            "titulo" : "Tarea 3",
+            "responsable" : "camilo",
+            "descripcion" : "Pasear el perico",
+            "prioridad" : "high"
+        },
+        {
+            "titulo" : "Tarea 3",
+            "responsable" : "camilo",
+            "descripcion" : "Pasear el perico",
+            "prioridad" : "high"
+        },
+        {
+            "titulo" : "Tarea 3",
+            "responsable" : "camilo",
+            "descripcion" : "Pasear el perico",
+            "prioridad" : "high"
+        }
+    ]
+}
